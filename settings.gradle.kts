@@ -1,2 +1,2 @@
-rootProject.name = "barcode"
-
+rootProject.name = "pixie"
+include("app", "lib")
