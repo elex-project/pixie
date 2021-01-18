@@ -1,6 +1,6 @@
-# tmpl-java-library
+# Project Pixie
 
-Template for Java library project
+Barcode generator
 
 ---
 developed by Elex
